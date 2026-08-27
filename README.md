@@ -1,4 +1,4 @@
-# arc-agent-dao
+# Stigmetry Agent DAO
 
 **Layer 7: On-Chain Governance + Dispute Arbitration for Arc**
 
@@ -58,8 +58,8 @@ Reputation-weighted DAO governance and binding dispute resolution for the Arc ag
 
 ```bash
 # Clone
-git clone https://github.com/sethoshi18/arc-agent-dao.git
-cd arc-agent-dao
+git clone https://github.com/Stigmetry/agent-dao.git
+cd agent-dao
 
 # Install
 npm install
@@ -115,11 +115,11 @@ npm run mcp
 
 | Repo | Layer | Description |
 |------|-------|-------------|
-| [arc-agent-payments](https://github.com/sethoshi18/arc-agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
-| [arc-agent-market](https://github.com/sethoshi18/arc-agent-market) | 3 | RFP board + bid matching |
-| [arc-agent-orchestrator](https://github.com/sethoshi18/arc-agent-orchestrator) | 4 | Multi-agent revenue splits |
-| **arc-agent-dao** | **7** | **Governance & dispute arbitration** |
-| [arc-agent-hub](https://github.com/sethoshi18/arc-agent-hub) | UI | Next.js marketplace frontend |
+| [Agent Payments](https://github.com/Stigmetry/agent-payments) | 1+2 | ERC-8004 identity + ERC-8183 job escrow |
+| [Agent Market](https://github.com/Stigmetry/agent-market) | 3 | RFP board + bid matching |
+| [Agent Orchestrator](https://github.com/Stigmetry/agent-orchestrator) | 4 | Multi-agent revenue splits |
+| **Agent DAO** | **7** | **Governance & dispute arbitration** |
+| [Agent Hub](https://github.com/Stigmetry/agent-hub-main) | UI | Next.js marketplace frontend |
 
 ---
 
